@@ -1,0 +1,3 @@
+localStorage.setItem('KeyName', value);
+localStorage.getItem(keyName);
+localStorage.removeItem('keyName')
